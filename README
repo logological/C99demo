@@ -1,0 +1,71 @@
+=============================================================
+C99 demonstration
+
+Freddy Y. Y. Choi
+
+Artificial Intelligence Group
+Department of Computer Science
+University of Manchester
+ENGLAND
+
+e:mail : choif@cs.man.ac.uk
+www    : http://www.cs.man.ac.uk/~choif
+
+=============================================================
+
+PACKAGE CONTENTS
+----------------
+bin			- Script for executing the demo
+bin/demo		- Execute demonstration, invoke in "bin" directory
+doc/naacl00.ps.gz	- Paper describing the C99 algorithm (in Proceedings of NAACL'00)
+doc/citation.bib	- BibTex entry for citation of the NAACL'00 paper
+text			- Demo text documents in a format suitable for the navigator
+text/brown		- Brown corpus text
+lib			- Library and resources used by the demo
+
+
+INTRODUCTION
+------------
+This package contains C99demo, an interactive application for demonstrating
+the key processes in my C99 algorithm.
+
+
+LICENSE
+-------
+This package is free for educational, research and other non-profit making uses
+only. For other uses, please contact Freddy Choi (choif@cs.man.ac.uk) with subject
+header "C99demo:License"
+
+
+REQUIREMENTS
+------------
+JDK 1.1.7B		- Java development kit 1.1.7b. We tested the application
+			  using the Blackdown Linux port of JDK.
+
+USAGE
+-----
+The algorithm takes a list of tokenized text blocks (e.g. sentences, paragraphs)
+as input. Each text line is a sequence of space separated tokens. General usage :
+
+1. Change to "bin" directory.
+2. Invoke "demo".
+
+
+BUG REPORTS
+-----------
+Direct all bug reports to "choif@cs.man.ac.uk" with the subject header "C99demo:Bug".
+
+
+SUPPORT
+-------
+Direct all questions to "choif@cs.man.ac.uk" with the subject header "C99demo:Support"
+
+
+VERSION
+-------
+Beta	Release candidate.
+
+
+===========
+Freddy Choi
+6th March 2000

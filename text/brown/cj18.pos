@@ -1,0 +1,6 @@
+6.4 . 
+The primary decomposition theorem We are trying to study a linear operator T on the finite-dimensional space V , by decomposing T into a direct sum of operators which are in some sense elementary . 
+We can do this through the characteristic values and vectors of T in certain special cases , i.e. , when the minimal polynomial for T factors over the scalar field F into a product of distinct monic polynomials of degree 1 . 
+What can we do with the general T ? ? 
+If we try to study T using characteristic values , we are confronted with two problems . 
+First , T may not have a single characteristic value ; ; this is really a deficiency in the scalar field , namely , that it is not algebraically closed . 
